@@ -6,7 +6,7 @@ const App = () => {
   
   return (
     <div className="bg-[#f7f8f9] w-screen h-screen flex flex-col justify-center items-center gap-10">
-      <h1 className="text-5xl">Assignment-2 Counter Application</h1>
+      <h1 className="text-5xl">Assignment-1 Counter Application</h1>
 
       <div className="flex gap-10">
         {/* <FunctionalCounter/> */}
